@@ -1,19 +1,22 @@
 # Sujeito Pizza
 
-About the project: Um projeto completo para uma pizzaria.
-[]- Cadastrar um novo usuário.
-[]- Logar um usuário.
-[]- Verificar autenticação para as rotas privadas.
-[]- Mostrar detalhes do usuário logado.
-[]- Criar e listar categorias.
-[]- Criar produtos e listar produtos de uma categoria especifica.
-[]- Abrir uma mesa (order) e poder fechar ela.
-[]- Adicionar itens a uma mesa e também poder retirar os itens.
-[]- Enviar order e tirar de rascunho.
-[]- Listar todos os pedidos que estão em rascunho(draft).
-[]- Listar todos os pedidos que estão em aberto(order).
-[]- Poder acessar todos os detalhes de uma mesa com pedidos dela.
-[]- Concluir pedido.
+**Sobre o Projeto:** Um projeto completo para uma pizzaria.
+
+- [ ] Cadastrar um novo usuário.
+- [ ] Logar um usuário.
+- [ ] Verificar autenticação para as rotas privadas.
+- [ ] Mostrar detalhes do usuário logado.
+- [ ] Criar e listar categorias.
+- [ ] Criar produtos e listar produtos de uma categoria específica.
+- [ ] Abrir uma mesa (order) e poder fechá-la.
+- [ ] Adicionar itens a uma mesa e também poder retirar os itens.
+- [ ] Enviar pedido e retirar do rascunho.
+- [ ] Listar todos os pedidos que estão em rascunho (draft).
+- [ ] Listar todos os pedidos que estão em aberto (order).
+
+- [ ] Poder acessar todos os detalhes de uma mesa com pedidos dela.
+- [ ] Concluir pedido.
+
 
 Figma: <https://www.figma.com/file/yTPA50bLeQdJOCrg5sAOqU/Pizzaria-Sujeito?type=design&node-id=0-1&mode=design&t=57Vc9NzVI1sD4Hvg-0>
 
