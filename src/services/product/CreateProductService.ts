@@ -7,8 +7,23 @@ interface ProductRequest {
   category_id: string;
 }
 class CreateProductService {
-  async execute({ name, price, description, banner, category_id }) {
-    return { ok: true };
+  async execute({
+    name,
+    price,
+    description,
+    banner,
+    category_id,
+  }: ProductRequest) {
+    const product = await prismaClient.product.create({
+      data: {
+        name,
+        price,
+        description,
+        banner,
+        category_id: category_id,
+      },
+    });
+    return product;
   }
 }
 
