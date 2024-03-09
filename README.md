@@ -10,8 +10,8 @@
 - [x] Criar produtos e listar produtos de uma categoria específica.
 - [x] Abrir uma mesa (order) e poder fechá-la.
 - [x] Adicionar itens a uma mesa e também poder retirar os itens.
-- [ ] Enviar pedido e retirar do rascunho.
-- [ ] Listar todos os pedidos que estão em rascunho (draft).
+- [x] Enviar pedido e retirar do rascunho.
+- [x] Listar todos os pedidos que estão em rascunho (draft).
 - [ ] Listar todos os pedidos que estão em aberto (order).
 - [ ] Poder acessar todos os detalhes de uma mesa com pedidos dela.
 - [ ] Concluir pedido.
