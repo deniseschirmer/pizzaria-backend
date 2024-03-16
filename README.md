@@ -14,7 +14,7 @@
 - [x] Listar todos os pedidos que estão em rascunho (draft).
 - [x] Listar todos os pedidos que estão em aberto (order).
 - [x] Poder acessar todos os detalhes de uma mesa com pedidos dela.
-- [ ] Concluir pedido.
+- [x] Concluir pedido.
 
 Figma: <https://www.figma.com/file/yTPA50bLeQdJOCrg5sAOqU/Pizzaria-Sujeito?type=design&node-id=0-1&mode=design&t=57Vc9NzVI1sD4Hvg-0>
 
